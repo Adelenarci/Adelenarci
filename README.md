@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adelenarci
+- 👋 Hi, I’m Ali Kaan Karagözgil
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Swift and Unreal Engine
 - 📫 How to reach me you can send me message from here
