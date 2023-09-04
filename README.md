@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ali Kaan Karagözgil
 - 👀 I’m interested in coding
+- 🎓 I'm a third year Computer Engineering student
 - 🌱 I’m currently learning Swift and Unreal Engine
-- 📫 How to reach me you can send me message from here
 
 <!---
 Adelenarci/Adelenarci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
