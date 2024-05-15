@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ali Kaan Karagözgil
-- 👀 I’m interested in coding
 - 🎓 I'm a third year Computer Engineering student
 
 <!---
