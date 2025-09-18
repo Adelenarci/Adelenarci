@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Kaan Karagözgil
-- 🎓 I'm a senior Computer Engineering student
+- 🎓 I'm a Computer Science student
 
 <!---
 Adelenarci/Adelenarci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
